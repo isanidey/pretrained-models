@@ -1,0 +1,9 @@
+h3
+{
+    font-size: 25px !important;
+    font-family: 'Pattaya', sans-serif;
+}
+.btn-success:hover
+{
+    background-color:crimson;
+}
